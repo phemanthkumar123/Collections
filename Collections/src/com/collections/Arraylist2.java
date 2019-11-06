@@ -8,6 +8,7 @@ public class Arraylist2 {
 	{
 		LinkedList al = new LinkedList();
 		al.add(10);
+		al.add(20);
 		al.add(200);
 		al.add(31);
 		al.add(300);
